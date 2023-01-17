@@ -1,9 +1,15 @@
 
-
-#grilla {
-    display: grid;
-    @media screen and (min-width: 768px)
-     {
-        
-    }
+h1 {
+    color: brown;
+    background: burlywood;
 }
+
+p {
+    color: brown;
+}
+
+.navegador {
+    text-emphasis-color: rgb(194, 194, 194);
+    background: red;
+}
+
